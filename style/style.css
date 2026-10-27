@@ -7,6 +7,7 @@
     width: 90%;
     max-width: 1000px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .menu{
@@ -23,7 +24,7 @@
 }
 
 .menu li{
-    display: inline-flex;
+    display: flex;
     margin-top: -45px;
     margin-right: 200px;
    float: right;
@@ -37,3 +38,26 @@
 .imagem-principal{
     width: 100%;
 }
+
+.portfolio h1{
+    margin-left: 200;
+}
+
+.portfolio{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grade-cards{
+    display: grid;
+    gap: 26px;
+}
+
+.card{
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: ;
+}
+
+
+
