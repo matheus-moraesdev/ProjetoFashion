@@ -1,0 +1,39 @@
+.cabecalho{
+    background-color: #003d52;
+    margin: 80px 80px 80px 80px;
+}
+
+.container{
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.menu{
+    margin: 20px 0 0;
+    padding: 0;
+
+    list-style: none;
+}
+
+.menu-link{
+    color: gray;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+
+.menu li{
+    display: inline-flex;
+    margin-top: -45px;
+    margin-right: 200px;
+   float: right;
+}
+
+.logo{
+    margin-top: 20px;
+    margin-left: 300px;
+}
+
+.imagem-principal{
+    width: 100%;
+}
