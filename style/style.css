@@ -25,13 +25,20 @@
 
 .menu li{
     display: inline-block;
-    margin: -50px 300px 10px 0;
+    margin: -20px 150px 10px 0;
     float: right;
+    font-size: 20px;
+
+}
+
+.menu :hover{
+    color: beige;
 }
 
 .logo{
-    margin-top: 20px;
+    margin-top: 50px;
     margin-left: 300px;
+    margin-bottom: -30px;
 }
 
 .imagem-principal{
@@ -76,6 +83,14 @@
 
     font-size: 45px;
 }
+
+.rodape{
+    background-color: black;
+     margin: 80px 80px 80px;
+     color: gray;
+     padding: 0.5px;
+}
+
 
 
 
